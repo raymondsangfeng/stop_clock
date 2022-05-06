@@ -73,3 +73,9 @@ button:hover{
 	border: solid 1px white;
 	color:base-color;
 	}
+
+        body {
+            background-image: url("stopwatch.png");
+            background-repeat: no-repeat;
+            background-size: 100%;
+        }
